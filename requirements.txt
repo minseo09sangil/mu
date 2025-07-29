@@ -1,0 +1,4 @@
+streamlit>=1.30.0
+pandas
+scikit-learn
+spotipy  # Spotify API 연결용
